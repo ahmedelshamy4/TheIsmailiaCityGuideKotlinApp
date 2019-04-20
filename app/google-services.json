@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "96866548576",
+    "firebase_url": "https://theismailiacityguidekotlinapp.firebaseio.com",
+    "project_id": "theismailiacityguidekotlinapp",
+    "storage_bucket": "theismailiacityguidekotlinapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96866548576:android:49e9e68d10d9966f",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.ismailiacityguidekotlinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96866548576-huld5el0bgb184t4kloka12g5p4m1iiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmed.ismailiacityguidekotlinapp",
+            "certificate_hash": "07b700101d2bc64ce13b66fa55665c8d893bd5e9"
+          }
+        },
+        {
+          "client_id": "96866548576-op8tvka07ps67gamvfvogc64u8007cav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJF4QFR8Vh0NW-zNA0xlLdXTv2JFjpcPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96866548576-op8tvka07ps67gamvfvogc64u8007cav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
